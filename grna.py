@@ -1,5 +1,7 @@
-#NOT NEEEDED
+# NOT NEEEDED
 # This is for basic understating how it works
+# The length of this grna will be 20 letters
+
 
 from Bio.Seq import Seq
 

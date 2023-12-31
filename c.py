@@ -1,4 +1,5 @@
 from Bio import SeqIO
+import random
 
 # Step 1: Load and Process CFTR Gene Data
 file_path = 'gene1.fna'
